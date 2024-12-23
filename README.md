@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bianca Badescu</h1>
-<h3 align="center">As an ambitious and determined student, I am pursuing dual degrees in Computer Science and Mathematics at West University of Timisoara, driven by a strong passion for these elds and a commitment to developing innovative solutions for the tech industry</h3>
+<h3 align="center">As an ambitious and determined student, I am pursuing dual degrees in Computer Science and Mathematics at West University of Timisoara, driven by a strong passion for these fields and a commitment to developing innovative solutions for the tech industry</h3>
 
 - 🔭 I’m currently working on **RecapIt**
 
